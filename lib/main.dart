@@ -56,14 +56,14 @@ class MyApp extends StatelessWidget {
               ),
               const IconTextElements(
                 icon: Icons.phone,
-                text: "+971 55 772 11 32",
+                text: "+971 55 123 45 67",
               ),
               SizedBox(
                 height: 20,
               ),
               const IconTextElements(
                 icon: Icons.email,
-                text: "subhanali.mbzuai@gmail.com",
+                text: "alex@gmail.com",
               )
             ],
           ),
